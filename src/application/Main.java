@@ -17,6 +17,7 @@ public class Main extends Application {
 	@Override
 	public void start(Stage stage) {
 		try {
+			
 			///StackPane 과 pane의 차이점은 
 			//StackPane은 들어온 node를 중앙에 위치시키고
 			//pane은 node를 (0,0)에 위치시킨다.
